@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  🎓 Sou formado em **Técnico em Informática pelo IFMG (Instituto Federal de Minas Gerais)**, onde construí uma base sólida em programação, banco de dados e lógica de desenvolvimento de software. Atualmente, estou cursando **Ciência da Computação**, no 3º período, e venho aprimorando constantemente meus conhecimentos na área de **Desenvolvimento Back-End**. Meu foco é evoluir como profissional, criando soluções eficientes, escaláveis e bem estruturadas, sempre aplicando boas práticas e buscando aprendizado contínuo para atender aos desafios do mercado de tecnologia.
+  🎓 Sou formado em **Técnico em Informática pelo IFMG (Instituto Federal de Minas Gerais)**, onde construí uma base sólida em programação, banco de dados e lógica de desenvolvimento de software. Atualmente, estou cursando **Ciência da Computação**, no 4º período, e venho aprimorando constantemente meus conhecimentos na área de **Desenvolvimento Back-End**. Meu foco é evoluir como profissional, criando soluções eficientes, escaláveis e bem estruturadas, sempre aplicando boas práticas e buscando aprendizado contínuo para atender aos desafios do mercado de tecnologia.
    
 </div>
 
